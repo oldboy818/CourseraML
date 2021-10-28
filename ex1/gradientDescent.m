@@ -29,7 +29,6 @@ for iter = 1:num_iters
     theta(1) = temp0;
     theta(2) = temp1;
 
-
     % ============================================================
 
     % Save the cost J in every iteration    
